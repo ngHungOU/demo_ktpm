@@ -6,4 +6,5 @@ int main()
 {
   cout<<"hello world"<<endl;
   cout << "bug" << endl;
+  cout << "another bug" << endl;
 }
