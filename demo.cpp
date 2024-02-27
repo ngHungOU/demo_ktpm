@@ -9,5 +9,4 @@ int main()
   cout << "another bug" << endl;
   cout << "feature-new thay doi" << endl;
   cout << "main" << endl;
-
 }
