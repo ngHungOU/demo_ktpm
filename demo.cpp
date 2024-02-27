@@ -8,4 +8,7 @@ int main()
   cout << "bug" << endl;
   cout << "another bug" << endl;
   cout << "main" << endl;
+  cout << "main" << endl;
+  cout << "main" << endl;
+  cout << "main" << endl;
 }
